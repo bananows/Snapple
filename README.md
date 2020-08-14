@@ -1,2 +1,3 @@
-# bananow
-Hallo wir sind zwei ungebildete schüler einer eliteschule
+# projekt
+
+Hallo wir sind Schüler einer Eliteschule
