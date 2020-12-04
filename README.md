@@ -5,7 +5,8 @@ Herr Buhl
 
 
 
-<h2Inhaltsverzeichnis</h2> :
+<h2>Inhaltsverzeichnis</h2> 
+
 Spielprinzip
 Snap!
 Programmierung
