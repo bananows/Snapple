@@ -13,6 +13,6 @@ Programmierung
 
 Grundbewegung
 
-![bsp Grundbewegung](images/Grundbewegung.PNG "Screenshot von Grundbewegung")
+![bsp Grundbewegung](Projektseite Images/Grundbewegung.png "Screenshot von Grundbewegung")
 
 
