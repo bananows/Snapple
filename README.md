@@ -11,8 +11,8 @@ Snap! ist eine auf kindertaugliche Programmiersprachen aufbauende erziehungsorie
 
 Programmierung
 
-Grundbewegungg
+Grundbewegung
 
-![bsp Grundbewegung](Projektseite Images/Grundbewegung.png "Screenshot von Grundbewegung")
+![bsp Grundbewegung](Projektseite_Images/Grundbewegung.png "Screenshot von Grundbewegung")
 
 
