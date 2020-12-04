@@ -15,6 +15,8 @@ Grundbewegung
 
 ![bsp Grundbewegung](Images/Grundbewegung.png "Screenshot von Grundbewegung")
 
+Die linken Blöcke geben die Richtung mithilfe der Pfeiltasten an, in der sich die Schlange bewegen soll. 
+
 
 
 
