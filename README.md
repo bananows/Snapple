@@ -18,7 +18,7 @@ Herr Buhl
     + <a href="#spritefunktion">Spritefunktion</a>   
     + <a href="#eraser">Eraser</a>
     + <a href="#apfel">Apfel</a>
-    + <a href="#blinkende schrift">Blinkende Schrift</a>
+    + <a href="#blinkendeschrift">Blinkende Schrift</a>
     
 
 <h2>Programmierung</h2>
@@ -56,7 +56,7 @@ Der "move 15 steps"-Befehl in dem rechten großen Block gibt an, dass sobald [sp
   
   Unser zuvor bereits erwähnter Apfel wird mit dem oberen Block, sobald [space] gedrückt wird, an eine bestimmte Startkoordinate positioniert, damit der Apfel nicht zufällig in unserer Schlange spawnt. Der untere Block gibt die Größe unseres Apfels an sorgt dafür, dass dieser an einer zufälligen Postition spawnt, sobald er von der Schlange berührt und aus deren Code gebroadcastet wird. 
   
-  <h2>Blinkende Schrift</h2>
+  <h2 id="blinkende schrift">Blinkende Schrift</h2>
   
   <p align="center"><img src="https://github.com/bananows/Snapple/blob/master/Images/Blinkende%20Schrift.png" width="600px">
   
