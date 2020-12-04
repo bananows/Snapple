@@ -8,7 +8,9 @@ Herr Buhl
 <h2>Inhaltsverzeichnis</h2> 
 
 Spielprinzip
+
 Snap!
+
 Programmierung
 
 Spielprinzip
