@@ -6,7 +6,7 @@ Herr Buhl
 
 <h2>Inhaltsverzeichnis</h2>
 
-* <a href="#idee">Die Idee</a>
+* <a href="#spielprinzip">Spielprinzip</a>
 * <a href="#programme">Die benötigten Programme</a>
 * <a href="#spielmechanik">Die Spielmechanik</a>
     + <a href="#charakter">Der Charakter</a>
