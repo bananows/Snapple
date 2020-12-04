@@ -1,3 +1,10 @@
+<h1>Snapple</h1>
+Projekt von Samed und Bjarne
+Informatik 12bc
+Herr Buhl
+
+
+
 Inhaltsverzeichnis :
 Spielprinzip
 Snap!
@@ -32,7 +39,18 @@ Spritefunktion
   
   Apfel
   
-  <p align="center"><img src="" width="600px">
+  <p align="center"><img src="https://github.com/bananows/Snapple/blob/master/Images/Apfel.png" width="600px">
+  
+  Unser zuvor bereits erwähnter Apfel wird mit dem oberen Block, sobald [space] gedrückt wird, an eine bestimmte Startkoordinate positioniert, damit der Apfel nicht zufällig in unserer Schlange spawnt. Der untere Block gibt die Größe unseres Apfels an sorgt dafür, dass dieser an einer zufälligen Postition spawnt, sobald er von der Schlange berührt und aus deren Code gebroadcastet wird. 
+  
+  Blinkende Schrift
+  
+  <p align="center"><img src="https://github.com/bananows/Snapple/blob/master/Images/Blinkende%20Schrift.png" width="600px">
+  
+  Bei unserem Endscreen soll der Schriftzug "Drücke [space] für Neustart" blinken, da es unserer Meinung nach anschaulicher ist und eine gewisse Dynamik mitbringt. Das funktioniert mithilfe einer Variable. Diese wird, wenn der Endscreen gebroadcastet wird, auf falsch gesetzt und dadurch das Blinken ausgelöst. Dieses wird solange wiederholt bis die Variable durch einen Druck auf [space] auf true gesetzt wird und die Schleife, die das Blinken verursacht, beendet wird. Das Blinken passert immer in 1er Sekunde Schritten. Dies passiert im unteren Block. 
+Im oberen Block geben wir an, dass wenn [space] gedrückt wird, der Schriftzug sich hidet, also verschwindet. 
+  
+  
   
  
   
