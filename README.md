@@ -36,19 +36,19 @@ Der "move 15 steps"-Befehl in dem rechten großen Block gibt an, dass sobald [sp
   
   Dieser Block dient dazu, dass wenn wir {space] drücken, die "trail"-Variable zur Liste hinzugefügt wird. Außerdem wird der Score auf 0 gesetzt und oben links während des Spiels angezeigt. Der "clear"-Befehl löscht alle Zeichnungen der vorherigen Runde. Anschließend werden alle laufenden Schleifen von davor ebensfalls beendet und auch andere Zeichnungen entfernt. Danach wird die Größe unserer Schlange definiert und es wird ein Startpunkt und eine Startrichtung festgesetzt. Der Befehl danach gibt an, dass die x- und y- Positionen der Schlange in die Liste gesetzt werden. Anschließend wird anhand der Liste gestempelt und die Schlange sozusagen angezeigt. Danach werden der "Eraser" und der "Apfel" in Funktion gerufen. Die "forever"-Schleife gibt an, dass wenn der Rand berührt wird oder die Schlange sich selbst berührt, das Spiel gestoppt wird bzw. der Endscreen erscheint. Außerdem wird angegeben, dass sobald ein Apfel von der Schlange berührt wird, ein Listeneintrag, also ein Block, zur Schlange hinzugefügt wird und dass der Score sich um +1 verändert.
   
-  Eraser
+  <h2>Eraser</h2>
   
   <p align="center"><img src="https://github.com/bananows/Snapple/blob/master/Images/Eraser.png" width="600px">
   
   Der Eraser ist der "Überstempler" unserer Schlange. Die Blockeinheiten unserer Schlange werden nicht gelöscht, sondern weiß überstempelt. Dies passiert, indem wir vorher einen "Eraser" zeichnen und ihm eine bestimmte rechteckige Form und eine weiße Farbe geben. Der Eraser ruft immer die letzten Listeneintrag ab und überstempelt diesen, indem er diesen mit seiner Position abgleicht und mit sich selbst ersetzt. Die Größe des Erasers gleicht der Größe eines Blocks unserer Schlange, damit präzise und genau überstempelt werden kann.
   
-  Apfel
+  <h2>Apfel</h2>
   
   <p align="center"><img src="https://github.com/bananows/Snapple/blob/master/Images/Apfel.png" width="600px">
   
   Unser zuvor bereits erwähnter Apfel wird mit dem oberen Block, sobald [space] gedrückt wird, an eine bestimmte Startkoordinate positioniert, damit der Apfel nicht zufällig in unserer Schlange spawnt. Der untere Block gibt die Größe unseres Apfels an sorgt dafür, dass dieser an einer zufälligen Postition spawnt, sobald er von der Schlange berührt und aus deren Code gebroadcastet wird. 
   
-  Blinkende Schrift
+  <h2>Blinkende Schrift</h2>
   
   <p align="center"><img src="https://github.com/bananows/Snapple/blob/master/Images/Blinkende%20Schrift.png" width="600px">
   
