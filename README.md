@@ -8,3 +8,9 @@ Unser Spiel Snapple ist ein Snakespiel. Das Ziel des Spiels ist es hierbei, eine
 
 Snap!
 Snap! ist eine auf kindertaugliche Programmiersprachen aufbauende erziehungsorientierte Programmiersprache. Sie ist für fortgeschrittenere Schüler und auch für durchaus erfahrene Erwachsene geeignet. Sie wurde von der Universität Berkley 2011 veröffentlicht. Zu den Entwicklern gehören Jens Möning und Brian Harvey. Snap! ist kompatibel mit Windows, macOS und Linux. Die Programmiersprache ist in 20 verschiedene Sprachen übersetzt und frei im Browser verfügbar.
+
+Programmierung
+
+Grundbewegung
+
+
