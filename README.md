@@ -18,6 +18,11 @@ Grundbewegung
 Die linken Blöcke geben die Richtung mithilfe der Pfeiltasten an, in der sich die Schlange bewegen soll. Zudem geben wir mit den "if not"- Befehlen an, dass sich die Schlange auf der Stelle nicht um 180° drehen und somit in sich selbst reinbewegen kann.
 Der "move 15 steps"-Befehl in dem rechten großen Block gibt an, dass sobald [space] gedrückt wurde und das Spiel somit gestartet wurde die Schlange sich zu jeder Zeit um 15 Schritte bewegt.
 
+Spritefunktion
+
+<p align="center"><img src="https://github.com/bananows/Snapple/blob/master/Projektseite%20Images/Sprite%20funktion.png" width="600px">
+
+
 
 
 
