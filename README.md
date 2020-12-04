@@ -7,7 +7,9 @@ Herr Buhl
 
 
 
-<h2>Inhaltsverzeichnis</h2> 
+<h2>Vorwort</h2> 
+Auf dieser Seite präsentieren wir unser Spiel.
+
 
 <h2>Inhaltsverzeichnis</h2>
 
