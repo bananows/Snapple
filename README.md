@@ -18,7 +18,7 @@ Herr Buhl
     + <a href="#spritefunktion">Spritefunktion</a>   
     + <a href="#eraser">Eraser</a>
     + <a href="#apfel">Apfel</a>
-    + <a href="#blinkendeschrift">Blinke ndeschrift</a>
+    + <a href="#blinkendeschrift">Blinkende schrift</a>
     
 
 <h2>Programmierung</h2>
