@@ -4,6 +4,25 @@ Informatik 12bc
 Herr Buhl
 
 
+<h2>Inhaltsverzeichnis</h2>
+
+* <a href="#idee">Die Idee</a>
+* <a href="#programme">Die benötigten Programme</a>
+* <a href="#spielmechanik">Die Spielmechanik</a>
+    + <a href="#charakter">Der Charakter</a>
+    + <a href="#animationcontroller">Der Animator-Controller</a>   
+    + <a href="#capsulecollider">Der Capsule-Collider</a>
+    + <a href="#charactercontroller">Der Character-Controller</a>
+    + <a href="#pausemenu">Das Pause-Menü</a>
+    + <a href="#mousecursor">Der Mouse-Cursor</a>
+    + <a href="#hauptmenu">Das Hauptmenü</a>
+* <a href="#gamedesign">Das Game-Design</a>
+    + <a href="#border">Die Map-Border</a>
+    + <a href="#texturen">Die Texturen</a>
+    + <a href="#mapobjekte">Die Map-Objekte</a>
+    + <a href="#standartassets">Die Standart Assets</a>
+    + <a href="#himmelundlicht">Der Himmel und das Licht</a>
+    + <a href="#musik">Die Musik</a>
 
 <h2>Inhaltsverzeichnis</h2> 
 
